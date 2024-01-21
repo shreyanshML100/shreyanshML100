@@ -2,7 +2,7 @@
 
 # Hail, Esteemed Companions! 🎭
 
-I, **[Shreyansh Pachauri]**, a digital minstrel, doth craft code poetry within the realm of **[IIT Kanpur]**. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration!
+I, **Shreyansh Pachauri**, a digital minstrel, doth craft code poetry within the realm of **IIT Kanpur**. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration!
 
 ## 🎨 Tools of the Artisan
 
