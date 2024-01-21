@@ -40,7 +40,7 @@ Peruse my repositories – tales of endeavors and quests await, unfolding like a
 
 ## 📈 GitHub Expedition Stats, a Quill's Sketch
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyanshML100&show_icons=true&count_private=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyanshML100&show_icons=true&count_private=true)
 
 ## 🎭 Gratitude for Thy Visit!
 
