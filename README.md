@@ -34,7 +34,7 @@ Peruse my repositories – tales of endeavors and quests await, unfolding like a
 ## 🚀 Let Us Connect in this Grand Masquerade
 
 - **Birdsong on Twitter:** [@shreyansh4ai](https://twitter.com/shreyansh4ai)
-- **Council Meetings on LinkedIn:** Shreyansh Pachauri([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/shreyansh-pachauri-7393341ba/))
+- **Council Meetings on LinkedIn:** [Shreyansh Pachauri](https://www.linkedin.com/in/shreyansh-pachauri-7393341ba/)
   <!--- **Portfolio Chronicles:** [Your Portfolio Website](https://www.yourportfolio.com)-->
 - **Raven Messages via Email:** pachaurishreyansh100@gmail.com
 
