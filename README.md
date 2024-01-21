@@ -2,9 +2,11 @@
 
 # Friends, coders, countrymen, lend me your time! 🎭
 
-I, **Shreyansh Pachauri**, a digital minstrel, doth craft code poetry within the realm of **IIT Kanpur**. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration for all the world's a code, and all the coders merely players
+I, **Shreyansh Pachauri**, a digital minstrel, doth craft code poetry within the realm of **IIT Kanpur**. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration for all the world's a code, and all the coders merely players.
 
-## 🎨 Tools of the Artisan
+**Cowards die many times before their deaths; the valiant never taste of death but once, and even then it's usually a runtime error**
+
+## 🎨 Meet my Technical Tools—silent storytellers, weaving dreams into reality with each stroke and turn
 
 - **Tongues of the Realm:** Fluent in Python, C++, Java, C, MATLAB, R, Julia
 - **Sorcery & Cantrips:** Mastering Tensorflow, PyTorch, OpenCV, NLTK, Scikit-Learn, PyMongo, PySpark, GPFlow
