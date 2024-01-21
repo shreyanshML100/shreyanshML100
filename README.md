@@ -2,7 +2,7 @@
 
 # Hail, Esteemed Companions! 🎭
 
-I, **Shreyansh Pachauri**, a digital minstrel, doth craft code poetry within the realm of **IIT Kanpur**. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration!
+I, **Shreyansh Pachauri**, a digital minstrel, doth craft code poetry within the realm of **IIT Kanpur**. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration for all the world's a code, and all the coders merely players
 
 ## 🎨 Tools of the Artisan
 
@@ -11,7 +11,8 @@ I, **Shreyansh Pachauri**, a digital minstrel, doth craft code poetry within the
 - **Archives of Wisdom:** Guardian of databases in MongoDB, SQL
 - **Instruments of the Developer:** Equipped with Git/GitHub, Simulink, COMSOL, LTE-Sim, Aspen Plus, Micro-Cap, LATEX
 
-## 📜 Ongoing Chronicles
+
+## 📜 Romeo, Romeo, wherefore art thou, Projects?
 
 1. **[Saddle Point Prediction in Potential Energy Surfaces using Probabilistic ML](link-to-project)** <!--A saga of algorithms and data structures, as if penned by the quill of destiny.-->
    - Technologies at play: GPFlow, Scikit-Learn, GPyTorch, Numpy, Matplotlib
