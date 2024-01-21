@@ -2,7 +2,7 @@
 
 # Hail, Esteemed Companions! 🎭
 
-I, Shreyansh Pachauri, a digital minstrel, doth craft code poetry within the realm of IIT Kanpur. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration!
+I, [Shreyansh Pachauri], a digital minstrel, doth craft code poetry within the realm of [IIT Kanpur]. Permit me to extend a cordial welcome to this GitHub stage, where lines of code unfold as scenes on a grand theatre. Pray, join me in this thespian endeavor of creation and collaboration!
 
 ## 🎨 Tools of the Artisan
 
@@ -33,7 +33,7 @@ Peruse my repositories – tales of endeavors and quests await, unfolding like a
 
 ## 🚀 Let Us Connect in this Grand Masquerade
 
-- **Birdsong on Twitter:** [@shreyanshai007](https://twitter.com/shreyanshai007)
+- **Birdsong on Twitter:** [@shreyansh4ai](https://twitter.com/shreyansh4ai)
 - **Council Meetings on LinkedIn:** Shreyansh Pachauri([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/shreyansh-pachauri-7393341ba/))
   <!--- **Portfolio Chronicles:** [Your Portfolio Website](https://www.yourportfolio.com)-->
 - **Raven Messages via Email:** pachaurishreyansh100@gmail.com
